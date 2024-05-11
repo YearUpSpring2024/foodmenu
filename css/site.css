@@ -1,0 +1,31 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+main {
+    padding: 20px 0;
+}
+
+h1 {
+    color: #c7ae2f;
+}
+
+label {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+select {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    justify-content: center;
+}
+
+select#menuItems {
+    margin-top: 5px;
+    width: 100%;
+    padding: 10px;
+    height: 200px;
+}
